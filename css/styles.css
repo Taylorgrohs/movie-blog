@@ -1,0 +1,32 @@
+.top {
+  text-align: center;
+}
+
+h1.top {
+  font-size: 50px;
+  text-shadow: 10px 10px 20px grey;
+}
+
+.aboutme {
+  background-color: yellow;
+  font-style: italic;
+  color: purple;
+}
+
+.about {
+  margin-left: 10px;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+hr {
+  border-color: black;
+  border-style: solid;
+}
+
+.img {
+  width: 300px;
+  height: 250px;
+}
