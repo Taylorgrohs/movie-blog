@@ -29,4 +29,9 @@ hr {
 .img {
   width: 300px;
   height: 250px;
+  margin-top: 20px; 
+}
+
+.block {
+  margin-left: 20px;
 }
